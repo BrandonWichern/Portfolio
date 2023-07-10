@@ -82,7 +82,7 @@ input, select, textarea {
   float: left;
   width: 50%;
   border: 1px solid grey;
-  height: 450px;
+  height: 500px;
   padding: 20px
 
 }
@@ -91,7 +91,7 @@ input, select, textarea {
   width: 50%;
   margin-right: -1px; /* Thank you IE */
   border: 1px solid grey;
-  height: 450px;
+  height: 500px;
   padding: 20px
 
 }
