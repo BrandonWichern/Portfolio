@@ -72,12 +72,22 @@ input, select, textarea {
 	appearance: none;
 }
 
+.flex-container {
+	display: flex;
+}
+
+.flex-item {
+	flex: 1;
+	padding: 20px; /* Optional: Add padding to the containers */
+	border: 1px solid #ccc; /* Optional: Add border for better visualization */
+}
+
 .float-container {
   width: 100%;
   display: flex;
   overflow: hidden;
-  
 }
+
 .float-left {
   float: left;
   width: 50%;
